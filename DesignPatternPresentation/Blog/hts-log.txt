@@ -1,0 +1,28 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 01 May 2023 19:47:10 at https://wp.seatheme.net/real/elements-to-build-your-post/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://wp.seatheme.net/real/elements-to-build-your-post/ -O1 "C:\My Web Sites\Blog" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:47:11	Warning: 	Moved Permanently for https://wp.seatheme.net/robots.txt
+19:47:11	Warning: 	File has moved from https://wp.seatheme.net/robots.txt to https://wp.seatheme.net/robots.txt/
+19:47:23	Warning: 	Retry after error -4 (No data (connection closed)) at link https://wp.seatheme.net/real/wp-content/uploads/sites/27/2014/12/logo-real-retina2.png (from https://wp.seatheme.net/real/elements-to-build-your-post/)
+19:47:23	Warning: 	Retry after error -4 (No data (connection closed)) at link https://wp.seatheme.net/real/wp-content/uploads/sites/27/2014/09/15811318086_c0ff2d7772_h.jpg (from https://wp.seatheme.net/real/elements-to-build-your-post/)
+19:47:23	Warning: 	Retry after error -4 (No data (connection closed)) at link https://wp.seatheme.net/real/wp-content/uploads/sites/27/2014/09/TIDqBLgQw6IUt5ZHKS0f_11891558035_eafdf53bf0_o.jpg (from https://wp.seatheme.net/real/elements-to-build-your-post/)
+19:47:24	Warning: 	Permanent Redirect for pinterest.com/robots.txt
+19:47:24	Warning: 	Redirected link is identical because of 'URL Hack' option: pinterest.com/robots.txt and https://pinterest.com/robots.txt
+19:47:24	Warning: 	Warning moved treated for pinterest.com/robots.txt (real one is https://pinterest.com/robots.txt)
+19:47:24	Warning: 	Permanent Redirect for pinterest.com/pin/create/bookmarklet/?url=https://wp.seatheme.net/real/elements-to-build-your-post/&is_video=false&media=https://wp.seatheme.net/real/wp-content/uploads/sites/27/2014/09/15811318086_c0ff2d7772_h.jpg
+19:47:24	Warning: 	Redirected link is identical because of 'URL Hack' option: pinterest.com/pin/create/bookmarklet/?url=https://wp.seatheme.net/real/elements-to-build-your-post/&is_video=false&media=https://wp.seatheme.net/real/wp-content/uploads/sites/27/2014/09/15811318086_c0ff2d7772_h.jpg and https://pinterest.com/pin/create/bookmarklet/?url=https://wp.seatheme.net/real/elements-to-build-your-post/&is_video=false&media=https://wp.seatheme.net/real/wp-content/uploads/sites/27/2014/09/15811318086_c0ff2d7772_h.jpg
+19:47:24	Warning: 	File has moved from pinterest.com/pin/create/bookmarklet/?url=https://wp.seatheme.net/real/elements-to-build-your-post/&is_video=false&media=https://wp.seatheme.net/real/wp-content/uploads/sites/27/2014/09/15811318086_c0ff2d7772_h.jpg to https://pinterest.com/pin/create/bookmarklet/?url=https://wp.seatheme.net/real/elements-to-build-your-post/&is_video=false&media=https://wp.seatheme.net/real/wp-content/uploads/sites/27/2014/09/15811318086_c0ff2d7772_h.jpg
+19:47:25	Warning: 	Permanent Redirect for https://pinterest.com/robots.txt
+19:47:25	Warning: 	Redirected link is identical because of 'URL Hack' option: https://pinterest.com/robots.txt and https://www.pinterest.com/robots.txt
+19:47:25	Warning: 	Warning moved treated for https://pinterest.com/robots.txt (real one is https://www.pinterest.com/robots.txt)
+19:47:25	Warning: 	Permanent Redirect for https://pinterest.com/pin/create/bookmarklet/?url=https://wp.seatheme.net/real/elements-to-build-your-post/%26is_video=false%26media=https://wp.seatheme.net/real/wp-content/uploads/sites/27/2014/09/15811318086_c0ff2d7772_h.jpg
+19:47:25	Warning: 	Redirected link is identical because of 'URL Hack' option: https://pinterest.com/pin/create/bookmarklet/?url=https://wp.seatheme.net/real/elements-to-build-your-post/%26is_video=false%26media=https://wp.seatheme.net/real/wp-content/uploads/sites/27/2014/09/15811318086_c0ff2d7772_h.jpg and https://www.pinterest.com/pin/create/bookmarklet/?url=https://wp.seatheme.net/real/elements-to-build-your-post/%26is_video=false%26media=https://wp.seatheme.net/real/wp-content/uploads/sites/27/2014/09/15811318086_c0ff2d7772_h.jpg
+19:47:25	Warning: 	File has moved from https://pinterest.com/pin/create/bookmarklet/?url=https://wp.seatheme.net/real/elements-to-build-your-post/%26is_video=false%26media=https://wp.seatheme.net/real/wp-content/uploads/sites/27/2014/09/15811318086_c0ff2d7772_h.jpg to https://www.pinterest.com/pin/create/bookmarklet/?url=https://wp.seatheme.net/real/elements-to-build-your-post/%26is_video=false%26media=https://wp.seatheme.net/real/wp-content/uploads/sites/27/2014/09/15811318086_c0ff2d7772_h.jpg
+
+HTTrack Website Copier/3.49-2 mirror complete in 15 seconds : 54 links scanned, 46 files written (4501942 bytes overall) [3933203 bytes received at 262213 bytes/sec], 816198 bytes transferred using HTTP compression in 20 files, ratio 27%, 5.4 requests per connection
+(No errors, 17 warnings, 0 messages)
